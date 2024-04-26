@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842144022063",
+    "project_id": "soundpacerunnersapplication",
+    "storage_bucket": "soundpacerunnersapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842144022063:android:cd424ccecd10ab209dd0da",
+        "android_client_info": {
+          "package_name": "fr.isen.mouillot.soundpacerunnersapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUjwycgVQgnFeXjBVKM00Ny1QGi2-HoKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
